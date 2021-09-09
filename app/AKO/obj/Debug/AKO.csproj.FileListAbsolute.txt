@@ -1,0 +1,40 @@
+C:\Users\Theodore IV\Desktop\AKO\AKO\AKO\bin\Debug\AKO.exe.config
+C:\Users\Theodore IV\Desktop\AKO\AKO\AKO\bin\Debug\AKO.exe
+C:\Users\Theodore IV\Desktop\AKO\AKO\AKO\bin\Debug\AKO.pdb
+C:\Users\Theodore IV\Desktop\AKO\AKO\AKO\obj\Debug\AKO.csprojAssemblyReference.cache
+C:\Users\Theodore IV\Desktop\AKO\AKO\AKO\obj\Debug\AKO.Anasayfa.resources
+C:\Users\Theodore IV\Desktop\AKO\AKO\AKO\obj\Debug\AKO.Form1.resources
+C:\Users\Theodore IV\Desktop\AKO\AKO\AKO\obj\Debug\AKO.MusteriEkle.resources
+C:\Users\Theodore IV\Desktop\AKO\AKO\AKO\obj\Debug\AKO.Musteriler.resources
+C:\Users\Theodore IV\Desktop\AKO\AKO\AKO\obj\Debug\AKO.Properties.Resources.resources
+C:\Users\Theodore IV\Desktop\AKO\AKO\AKO\obj\Debug\AKO.csproj.GenerateResource.cache
+C:\Users\Theodore IV\Desktop\AKO\AKO\AKO\obj\Debug\AKO.csproj.CoreCompileInputs.cache
+C:\Users\Theodore IV\Desktop\AKO\AKO\AKO\obj\Debug\AKO.exe
+C:\Users\Theodore IV\Desktop\AKO\AKO\AKO\obj\Debug\AKO.pdb
+C:\Users\Theodore IV\Desktop\AKO\AKO\AKO\obj\Debug\AKO.Araclar.resources
+C:\Users\Theodore IV\Desktop\AKO\AKO\AKO\obj\Debug\AKO.AracEkle.resources
+C:\Users\Theodore IV\Desktop\AKO\AKO\AKO\obj\Debug\AKO.Satislar.resources
+C:\Users\Theodore IV\Desktop\AKO\AKO\AKO\obj\Debug\AKO.SozlesmeEkle.resources
+C:\Users\Theodore IV\Desktop\AKO\AKO\AKO\obj\Debug\AKO.Sozlesmeler.resources
+C:\Users\Theodore IV\Desktop\AKO\AKO\AKO\obj\Debug\AKO.Raporlar.resources
+C:\Users\Theodore IV\Desktop\AKO\AKO\AKO\obj\Debug\AKO.AracTeslimAl.resources
+C:\Users\Theodore IV\Desktop\Görsel II&Veri Tabanı Final Proje\Uğurcan Işık 1805113084\AKO\AKO\bin\Debug\AKO.exe.config
+C:\Users\Theodore IV\Desktop\Görsel II&Veri Tabanı Final Proje\Uğurcan Işık 1805113084\AKO\AKO\bin\Debug\AKO.exe
+C:\Users\Theodore IV\Desktop\Görsel II&Veri Tabanı Final Proje\Uğurcan Işık 1805113084\AKO\AKO\bin\Debug\AKO.pdb
+C:\Users\Theodore IV\Desktop\Görsel II&Veri Tabanı Final Proje\Uğurcan Işık 1805113084\AKO\AKO\obj\Debug\AKO.csprojAssemblyReference.cache
+C:\Users\Theodore IV\Desktop\Görsel II&Veri Tabanı Final Proje\Uğurcan Işık 1805113084\AKO\AKO\obj\Debug\AKO.Anasayfa.resources
+C:\Users\Theodore IV\Desktop\Görsel II&Veri Tabanı Final Proje\Uğurcan Işık 1805113084\AKO\AKO\obj\Debug\AKO.AracEkle.resources
+C:\Users\Theodore IV\Desktop\Görsel II&Veri Tabanı Final Proje\Uğurcan Işık 1805113084\AKO\AKO\obj\Debug\AKO.Araclar.resources
+C:\Users\Theodore IV\Desktop\Görsel II&Veri Tabanı Final Proje\Uğurcan Işık 1805113084\AKO\AKO\obj\Debug\AKO.AracTeslimAl.resources
+C:\Users\Theodore IV\Desktop\Görsel II&Veri Tabanı Final Proje\Uğurcan Işık 1805113084\AKO\AKO\obj\Debug\AKO.Form1.resources
+C:\Users\Theodore IV\Desktop\Görsel II&Veri Tabanı Final Proje\Uğurcan Işık 1805113084\AKO\AKO\obj\Debug\AKO.MusteriEkle.resources
+C:\Users\Theodore IV\Desktop\Görsel II&Veri Tabanı Final Proje\Uğurcan Işık 1805113084\AKO\AKO\obj\Debug\AKO.Musteriler.resources
+C:\Users\Theodore IV\Desktop\Görsel II&Veri Tabanı Final Proje\Uğurcan Işık 1805113084\AKO\AKO\obj\Debug\AKO.Properties.Resources.resources
+C:\Users\Theodore IV\Desktop\Görsel II&Veri Tabanı Final Proje\Uğurcan Işık 1805113084\AKO\AKO\obj\Debug\AKO.Raporlar.resources
+C:\Users\Theodore IV\Desktop\Görsel II&Veri Tabanı Final Proje\Uğurcan Işık 1805113084\AKO\AKO\obj\Debug\AKO.Satislar.resources
+C:\Users\Theodore IV\Desktop\Görsel II&Veri Tabanı Final Proje\Uğurcan Işık 1805113084\AKO\AKO\obj\Debug\AKO.SozlesmeEkle.resources
+C:\Users\Theodore IV\Desktop\Görsel II&Veri Tabanı Final Proje\Uğurcan Işık 1805113084\AKO\AKO\obj\Debug\AKO.Sozlesmeler.resources
+C:\Users\Theodore IV\Desktop\Görsel II&Veri Tabanı Final Proje\Uğurcan Işık 1805113084\AKO\AKO\obj\Debug\AKO.csproj.GenerateResource.cache
+C:\Users\Theodore IV\Desktop\Görsel II&Veri Tabanı Final Proje\Uğurcan Işık 1805113084\AKO\AKO\obj\Debug\AKO.csproj.CoreCompileInputs.cache
+C:\Users\Theodore IV\Desktop\Görsel II&Veri Tabanı Final Proje\Uğurcan Işık 1805113084\AKO\AKO\obj\Debug\AKO.exe
+C:\Users\Theodore IV\Desktop\Görsel II&Veri Tabanı Final Proje\Uğurcan Işık 1805113084\AKO\AKO\obj\Debug\AKO.pdb

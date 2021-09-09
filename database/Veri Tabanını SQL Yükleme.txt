@@ -1,0 +1,12 @@
+Bu Bilgisayar > Yerel Disk C: > Program Files > 
+
+> Microsoft SQL Server > MSSQL10_50.SQLEXPRESS >
+ 
+> MSSQL > DATA >> Nın içine veri tabanı klasorundeki 2 dosyayı atıyoruz
+
+
+daha sonra Microsoft SQL Server Management Studio'yu çalıştırıyoruz >>
+
+>> Giris Yapınca DataBases Adlı dosyaya sağ tıklayıp Attack Diyoruz 
+
+Açılan Percereden Add e tıklayıp Data nın içine attığımız dosyayı seçiyoruz OK diyoruz.
